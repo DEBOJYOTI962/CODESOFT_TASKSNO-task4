@@ -1,0 +1,59 @@
+TASK 4: CUSTOMER DATA ANALYSIS
+SHORT REPORT
+
+Dataset: Random Customer Purchase Dataset
+Records: 300 customers
+
+1. OBJECTIVE
+The objective is to understand customer purchasing behavior, segment customers based on age, location, and buying patterns, identify valuable customer groups, and suggest marketing strategies.
+
+2. CUSTOMER PROFILE
+- Average age: 34.8 years
+- Average income: ₹57,599
+- Average total spending: ₹11,940
+- Average satisfaction: 7.03/10
+
+3. CUSTOMER SEGMENTATION
+Age groups:
+- 18-25: 46 customers; average spend ₹15,857; average purchase frequency 6.65
+- 26-35: 119 customers; average spend ₹10,769; average purchase frequency 5.40
+- 36-45: 99 customers; average spend ₹11,452; average purchase frequency 6.23
+- 46-65: 36 customers; average spend ₹12,147; average purchase frequency 6.14
+
+Value segments:
+- Low Value: 75 customers; average spend ₹4,310; average satisfaction 6.89/10
+- Medium Value: 150 customers; average spend ₹10,650; average satisfaction 7.03/10
+- High Value: 75 customers; average spend ₹22,148; average satisfaction 7.18/10
+
+Engagement segments:
+- Low Engagement: 38 customers; average spend ₹6,559; churn-risk rate 36.8%
+- Medium Engagement: 187 customers; average spend ₹11,324; churn-risk rate 9.6%
+- High Engagement: 75 customers; average spend ₹16,203; churn-risk rate 8.0%
+
+4. LOCATION ANALYSIS
+- Highest-spending location: Kolkata
+- Average spending in Kolkata: ₹13,122
+Location-level differences show that regional marketing can be useful.
+
+5. PRODUCT CATEGORY ANALYSIS
+- Highest-spending preferred category: Grocery
+- Average spending for this category: ₹14,530
+
+6. MOST VALUABLE CUSTOMER GROUPS
+- Highest-spending age group: 18-25
+- Highest-spending location: Kolkata
+- Highest-spending category: Grocery
+- Highest broad value segment: High Value
+
+These groups should receive priority for loyalty programs, personalized offers, cross-selling, and premium customer experiences.
+
+7. MARKETING STRATEGIES
+- Give loyalty rewards and premium benefits to high-value customers.
+- Use discounts and personalized recommendations to increase low customer engagement.
+- Contact low-satisfaction customers with feedback and service-recovery campaigns.
+- Use location-based campaigns, especially in Kolkata.
+- Promote complementary products related to Grocery.
+- Customize campaigns for different age groups.
+
+8. CONCLUSION
+Customer segmentation shows differences in spending, engagement, satisfaction, location, and product preference. Targeted marketing can improve customer retention, increase purchase frequency, and focus resources on the most valuable customer groups.
